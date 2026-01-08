@@ -1,0 +1,6 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ZubayerMos/Git-Practice-7994.git
+git push -u origin main
